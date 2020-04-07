@@ -1,5 +1,3 @@
-<?php
+Test 1 
 
-phpinfo();
-
-?>
+Test 2
